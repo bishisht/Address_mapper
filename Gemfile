@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'bootstrap-generators'
 gem 'geocoder'
 gem 'gmaps4rails'
+gem 'underscore-rails'
 group :development, :test do
   gem 'byebug'
 end
